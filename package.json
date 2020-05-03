@@ -1,5 +1,5 @@
 {
-  "name": "~scope~",
+  "name": "gzeit",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -12,7 +12,7 @@
     "clean": "node ./scripts/clean.js",
     "upgrade": "node ./scripts/upgrade.js",
     "release": "node ./scripts/release.js",
-    "web": "yarn workspace @~scope~/sandbox start",
+    "web": "yarn workspace @gzeit/sandbox start",
     "test": "jest",
     "coveralls": "jest --coverage && coveralls < coverage/lcov.info"
   },
@@ -33,6 +33,7 @@
     "packages/*/dist/*"
   ],
   "devDependencies": {
+    "@gallop/gallop": "^0.5.1",
     "@jest-runner/electron": "^2.0.3",
     "@rollup/plugin-alias": "^3.1.0",
     "@rollup/plugin-json": "^4.0.3",

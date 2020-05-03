@@ -955,6 +955,11 @@
     unique-filename "^1.1.1"
     which "^1.3.1"
 
+"@gallop/gallop@^0.5.1":
+  version "0.5.1"
+  resolved "https://registry.npm.taobao.org/@gallop/gallop/download/@gallop/gallop-0.5.1.tgz#7103e856963c91e23ea33ad39d426f7cdd54c06c"
+  integrity sha1-cQPoVpY8keI+ozrTnUJvfN1UwGw=
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/@istanbuljs/load-nyc-config/download/@istanbuljs/load-nyc-config-1.0.0.tgz#10602de5570baea82f8afbfa2630b24e7a8cfe5b"

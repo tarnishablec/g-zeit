@@ -1,0 +1,33 @@
+{
+  "name": "@gzeit/share",
+  "version": "0.0.0",
+  "description": "share",
+  "main": "src/index.ts",
+  "module": "dist/index.esm.js",
+  "files": [
+    "index.js",
+    "dist",
+    "src"
+  ],
+  "unpkg": "dist/index.global.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gzeit",
+    "typescript"
+  ],
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "sideEffects": false,
+  "author": "tarnishablec <tarnishablec@outlook.com>",
+  "license": "MIT",
+  "homepage": "",
+  "publishConfig": {
+    "access": "public"
+  }
+}

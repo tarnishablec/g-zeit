@@ -1,11 +1,11 @@
-# `@~scope~/sandbox`
+# `@gzeit/sandbox`
 
 > TODO: description
 
 ## Usage
 
 ```ts
-const sandbox = require('@~scope~/sandbox');
+const sandbox = require('@gzeit/sandbox');
 
 // TODO: DEMONSTRATE API
 ```

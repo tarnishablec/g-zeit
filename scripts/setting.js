@@ -1,5 +1,5 @@
 module.exports = {
-  scope: `~scope~`,
+  scope: `gzeit`,
   auther: 'tarnishablec <tarnishablec@outlook.com>',
   gitUrl: ''
 }

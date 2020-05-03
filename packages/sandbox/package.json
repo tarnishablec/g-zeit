@@ -1,5 +1,5 @@
 {
-  "name": "@~scope~/sandbox",
+  "name": "@gzeit/sandbox",
   "version": "0.0.0",
   "description": "sandbox",
   "main": "./App.ts",
